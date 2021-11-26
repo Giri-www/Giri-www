@@ -1,0 +1,54 @@
+1. Write one scenario of Black-box Testing ?
+
+-> A Simple login screen of web applications there are two fields, one is username one is password.
+we give the correct input and the output will be to enable  access to the system.
+A black-box testing will not consider the code,it will check the valid username and password.
+if i input a wrong username or password then shows the error messege.
+Black-box testing emphasizes on the behaviour of software .It checks the scenario where system can break.
+
+
+
+2. When to stop testing?
+
+-> It is difficult to determine when to stop testing,testing is a never ending process and no one can claim that a software
+is 100% tested. The aspects are to be consider for stopping the testing process.
+
+*when the all test cases get passed
+*Test Deadlines
+*Completion of test cases execution
+*Bug rate falls below a certain level and no high-priority bugs are identified
+*When all the defects have been found
+*Management Decision
+
+
+
+3.Why  software testing  is important?
+
+->
+software testing saves money,
+Inspires Customer Confidence and Satisfaction,
+Improves Security,
+Improves Product Quality.
+It reduces maintenance costs and provides better usability and enhanced functionality.
+For the good public relation with customer
+
+
+
+4. Give one example of Regression Testing ?
+->
+we have an image uploading field which supports only certain image formats say JPG, PNG etc. 
+Suppose one of the images formats failed (say JPG) and the developer fixed it. Testing the functionality, 
+after fixing this bug is retesting. Here, testing and ensuring whether this new change (fixes) has not 
+altered the working of other fields on that page is regression testing.
+
+
+5. which test you should automate?
+
+->
+Unit testing should take the top priority, followed by integration testing and functional testing. 
+The types of test cases that should be automated have a lot of complex manual scenarios,
+ especially those that require a lot of data or environment setup.
+
+i choose unit testing because unit testing involves testing individual components of the software program or application. 
+The main purpose behind this is to check that all the individual parts are working as intended. 
+A unit is known as the smallest possible component of software that can be tested. Generally, it has a few inputs and a single output.
