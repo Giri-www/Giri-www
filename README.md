@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **Ask me anything, and I'll be pleased to assist;**
 
-- 📫 How to reach me **do reach, email :)**
+- 📫 How to reach me **do reach, email :) girirahul944@gmail.com**
+
+- ⚡ Fun fact **Big Fan of the ⚡ Joke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
